@@ -42,7 +42,8 @@ HTMLContentViewer.init(settings);
 ```
 
 ### Things to consider
-The content is injected inside the html tag of the new window as is meaning the library will not prevent JavaScript injection attacks, for example. Therefore **you should sanitize your HTML content before passing it to HTMLContentViewer**.
+* The content is injected inside the html tag of the new window as is meaning the library will not prevent JavaScript injection attacks, for example. Therefore **you should sanitize your HTML content before passing it to HTMLContentViewer**.
+* For CSS styling to work you should use inline styles for your content. For QuillJS this can be done by registering your styles as descriped here https://github.com/quilljs/quill/issues/1451#issuecomment-523559508.
 
 ### Acknowledgements
 * Button styling by https://www.bestcssbuttongenerator.com
