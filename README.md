@@ -42,7 +42,8 @@ HTMLContentViewer.init(settings);
 ```
 
 ### Things to consider
-The content is injected inside the html tag of the new window as is meaning the library will not prevent JavaScript injection attacks, for example. Therefore **you should sanitize your HTML content before passing it to HTMLContentViewer** 
+The content is injected inside the html tag of the new window as is meaning the library will not prevent JavaScript injection attacks, for example. Therefore **you should sanitize your HTML content before passing it to HTMLContentViewer**.
+
 ### Acknowledgements
 * Button styling by https://www.bestcssbuttongenerator.com
 
