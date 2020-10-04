@@ -1,7 +1,7 @@
 # HTMLContentViewer
 
 
-HTMLContentViewer is a small js utility library that opens a new browser window with provided html content and optional print and close buttons. It can be used to print output from rich text editors such as Quill.js, for example.
+HTMLContentViewer is a small JavaScript utility library that opens a new browser window with provided html content and optional print and close buttons. It can be used to print output from rich text editors such as Quill.js, for example.
 
 ![HTMLContentViewer](https://i.ibb.co/HhRv1Dd/html-content-viewer.png)
 
