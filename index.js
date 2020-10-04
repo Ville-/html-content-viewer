@@ -1,5 +1,6 @@
 var HTMLContentViewer = {
   init: function (settings) {
+    settings = settings ? settings : {};
 
     this.settings = {
       height: settings.height ? settings.height : 600,
