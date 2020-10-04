@@ -1,0 +1,15 @@
+{
+  "name": "html-content-viewer",
+  "version": "1.0.0",
+  "description": "Utility library to show HTML content in a new browser window.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "HTML",
+    "print"
+  ],
+  "author": "Ville Saarinen",
+  "license": "MIT"
+}
