@@ -22,7 +22,7 @@ HTMLContentViewer.init();
 ...
 
 //Open your HTML content in a new browser window
-HTMLContentViewer.showHTMLContentInNewWindow("<p>Your HTML content</p>");
+HTMLContentViewer.showHTMLContentInNewWindow("<p>Your HTML content</p>", "Title for the new window");
 ```
 
 #### Optional settings
