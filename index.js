@@ -81,7 +81,7 @@ function getTitle(title) {
 }
 
 function openWindow(height, width) {
-  return window.open('', '', 'height=' + height + 'width=' + width);
+  return window.open('', '', 'height=' + height + ',width=' + width);
 }
 
 function getStyles() {
