@@ -11,5 +11,9 @@
     "print"
   ],
   "author": "Ville Saarinen",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ville-/html-content-viewer-js"
+  }
 }
