@@ -4,7 +4,7 @@ var HTMLContentViewer = {
 
     this.settings = {
       height: settings.height ? settings.height : 600,
-      width: settings.height ? settings.height : 400,
+      width: settings.width ? settings.width : 400,
       showPrintButton: settings.showPrintButton || settings.showPrintButton == undefined ? true : false,
       showCloseButton: settings.showCloseButton || settings.showCloseButton == undefined ? true : false,
       printButtonText: settings.printButtonText ? settings.printButtonText : "Print",

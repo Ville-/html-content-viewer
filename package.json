@@ -1,6 +1,6 @@
 {
   "name": "html-content-viewer",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Utility library to show HTML content in a new browser window.",
   "main": "index.js",
   "scripts": {
